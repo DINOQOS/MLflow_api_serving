@@ -1,4 +1,4 @@
-** MLOps **
+**MLOps**
 
 *MLflow, docker를 활용해 모델을 API로 서빙하는 과정입니다.*
 
