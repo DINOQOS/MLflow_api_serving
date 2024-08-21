@@ -30,7 +30,7 @@ MLflow를 통해 AI 모델의 최적화, 로깅, 저장 등을 체계적으로 �
 5. **모델 아티팩트 저장**: Minio를 활용하여 모델 파일을 안전하게 저장.
 
 ## MLOps 서비스 구성도
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5cb0347e-af8c-484d-af09-b8fdd145ecc7/9689df41-a396-475b-880f-f33a139ea11f/Untitled.png)
+![Untitled](https://github.com/user-attachments/assets/dd3ede86-800c-44fc-997d-7729ca930df7)
 
 ## 어려웠던 점
 - **MLflow 학습 자료 부족**: MLflow 관련 자료가 많지 않아, 외국의 영상과 공식 문서를 참고하여 학습했습니다.
