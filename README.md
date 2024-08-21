@@ -43,6 +43,11 @@ MLflow를 통해 AI 모델의 최적화, 로깅, 저장 등을 체계적으로 �
 - 기존 모델들의 실험 추적 및 튜닝 작업을 지속할 계획입니다.
 - 새로운 AI 모델을 개발하고, 이를 FastAPI를 통해 서빙하여 실용적인 프로젝트로 확장할 계획입니다.
 
+## 참고
+https://www.youtube.com/watch?v=8e9CCr9urd4&list=PLQqR_3C2fhUUkoXAcomOxcvfPwRn90U-g 
+https://school.programmers.co.kr/learn/courses/18085/18085-%EB%A7%88%ED%82%A4%EB%82%98%EB%9D%BD%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-mlops-%ED%95%99%EC%8A%B5%EB%B6%80%ED%84%B0-%EC%84%9C%EB%B9%99%EA%B9%8C%EC%A7%80 
+
+
 ## 자세한 내용
 자세한 내용은 다음 블로그에서 확인하실 수 있습니다.  
 [MLflow 관련 블로그 포스트](https://dinoqos.tistory.com/category/Tech%20Stack/MLflow)
