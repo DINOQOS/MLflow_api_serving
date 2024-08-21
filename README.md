@@ -2,6 +2,8 @@
 
 ## 프로젝트 개요
 ![image](https://github.com/user-attachments/assets/f55e69ee-17ac-4e2c-b5de-320caece0de6)
+
+
 이 프로젝트는 MLflow를 활용하여 최적의 모델을 만들고, FastAPI를 통해 모델을 서빙하는 과정을 다룹니다. Docker, Minio, Postgresql, Tensorflow, Keras, Pandas, RDS와 같은 기술을 사용하여 모델의 실험 추적, 튜닝, 저장 및 서빙을 체계적으로 관리합니다.
 
 ## 사용 기술
