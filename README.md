@@ -6,6 +6,8 @@
 이 프로젝트는 MLflow를 활용하여 최적의 모델을 만들고, FastAPI를 통해 모델을 서빙하는 과정을 다룹니다. Docker, Minio, Postgresql, Tensorflow, Keras, Pandas, RDS와 같은 기술을 사용하여 모델의 실험 추적, 튜닝, 저장 및 서빙을 체계적으로 관리합니다.
 
 ## 사용 기술
+![image](https://github.com/user-attachments/assets/53b66853-c9be-44bd-8b54-e6f65ca277be)
+
 - **MLflow**: 모델의 하이퍼파라미터 최적화, 로깅, 저장 등을 관리.
 - **FastAPI**: 모델을 API 형태로 서빙.
 - **Docker**: 컨테이너화를 통해 환경을 관리 및 배포.
@@ -28,6 +30,9 @@ MLflow를 통해 AI 모델의 최적화, 로깅, 저장 등을 체계적으로 �
 3. **Docker 이미지 생성**: Docker를 통해 모델 서빙 환경을 컨테이너화.
 4. **데이터베이스 관리**: Postgresql을 사용하여 실험 데이터와 메타데이터를 저장하고, RDS를 통해 데이터베이스를 관리.
 5. **모델 아티팩트 저장**: Minio를 활용하여 모델 파일을 안전하게 저장.
+
+## MLOps 서비스 구성도
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5cb0347e-af8c-484d-af09-b8fdd145ecc7/9689df41-a396-475b-880f-f33a139ea11f/Untitled.png)
 
 ## 어려웠던 점
 - **MLflow 학습 자료 부족**: MLflow 관련 자료가 많지 않아, 외국의 영상과 공식 문서를 참고하여 학습했습니다.
